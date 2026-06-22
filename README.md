@@ -6,4 +6,8 @@ My Father name is Haji Zafar Iqbal
 I have many business like (Agriculture,Fish_forming,Lumber,Animals)
 <br>
 This project is about Fish Forming (rates,prices,owner,feed,varities)
+<br>
+Location: District Kot Adu , Division DGK
+contact: 03007339740
+
 
